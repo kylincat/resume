@@ -1,0 +1,49 @@
+p {
+  color:blue;
+  font-size:20px;
+  text-align:right;
+  
+}
+h1 {
+  color:purple;
+  
+  
+}
+h2{
+  text-align:center;
+}
+h3{
+  text-align:center;
+}
+span {
+  color:green;
+  font-family:arial;
+  font-style:italic;
+  font-weight:0px;
+  font-size:30px;
+  text-decoration-line:line-through;
+  text-indent:5px;
+  
+}
+body{
+  background-image:url("https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1965136464,3560769820&fm=27&gp=0.jpg")
+}
+p1{
+  color:red;
+  text-shadow:2px 2px 1px black;
+  font-size:20px;
+   
+}
+.box1 {
+  position:relative;
+  bottom:15px;
+  float:right;
+  line-heght:1.5;
+  font-size:20px;
+}
+.indent{
+  text-indent:40px;
+}
+ul li p1 em{
+  color:pink;
+}
