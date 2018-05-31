@@ -3,14 +3,17 @@ p {
   font-size:20px;
   text-align:right;
   
+  
 }
 h1 {
   color:purple;
-  
-  
+  background-color:yellow;
+  text-align:center;
+  border: 5px dashed green;
 }
 h2{
   text-align:center;
+  
 }
 h3{
   text-align:center;
@@ -26,7 +29,11 @@ span {
   
 }
 body{
-  background-image:url("https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1965136464,3560769820&fm=27&gp=0.jpg")
+  background:url("https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1965136464,3560769820&fm=27&gp=0.jpg") no-repeat center;
+  
+  
+  
+  
 }
 p1{
   color:red;
@@ -41,9 +48,24 @@ p1{
   line-heght:1.5;
   font-size:20px;
 }
+.box2 {
+  position:relative;
+  bottom:15px;
+  float:left;
+  line-heght:1.5;
+  font-size:20px;
+  high:50px;
+  width:30px;
+  border:2px double grey;
+}
 .indent{
   text-indent:40px;
 }
 ul li p1 em{
   color:pink;
 }
+
+a:link {color:blue;}    /* 未被访问的链接 */
+a:visited {color:purple;} /* 已被访问的链接 */
+a:hover {color:green;}   /* 鼠标指针移动到链接上 */
+a:active {color:red;}  /* 正在被点击的链接 */
