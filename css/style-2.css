@@ -4,10 +4,10 @@
     width: 80%;
     position: relative;
     top:0px;
-    left:260px;
-    border;
-    padding:0;
-    margin:0;
+    left:270px;
+    
+    padding:0px;
+    margin:0px;
 
 }
 .box1_1 {
@@ -15,7 +15,7 @@
     width: 20%;
     position: relative;
     left:0px;
-    top:-867px;
+    top:-668px;
     text-align:left;
     padding:0px 0;
     font-weight:bold;
@@ -27,7 +27,7 @@
     width: 20%;
     position: relative;
     left:268px;
-    top:-867px;
+    top:-668px;
     text-align:left;
     padding:0px 0;
     font-weight:bold;
@@ -39,7 +39,7 @@
     width: 25%;
     position: relative;
     left:537px;
-    top:-867px;
+    top:-668px;
     text-align:left;
     padding:0px 0;
     font-weight:bold;
@@ -51,7 +51,7 @@
     width: 20%;
     position: relative;
     left:0px;
-    top:-727px;
+    top:-570px;
     text-align:left;
     padding:0px 0;
     font-weight:bold;
@@ -63,7 +63,7 @@
     width: 30%;
     position: relative;
     left:268px;
-    top:-727px;
+    top:-570px;
     text-align:left;
     padding:0px 0;
     font-weight:bold;
@@ -75,7 +75,7 @@
     width: 25%;
     position: relative;
     left:537px;
-    top:-727px;
+    top:-570px;
     text-align:left;
     padding:0px 0;
     font-weight:bold;
@@ -139,9 +139,10 @@ a:active {color:red;}
 .box3 {
     background-color:rgb(66, 66, 240);
     width:250px;
-    height:960px;
+    height:700px;
     float:left;
     margin-right: 20px;
+    margin-bottom:20px;
     
 }
 h1 {
